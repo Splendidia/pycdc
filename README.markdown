@@ -54,4 +54,4 @@ Additional contributions from:
 * Zlodiy
 
 It is released under the terms of the GNU General Public License, version 3;
-See LICENSE file for details.
+See LICENSE file for details .
